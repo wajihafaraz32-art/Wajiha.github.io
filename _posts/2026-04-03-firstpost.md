@@ -4,7 +4,7 @@ date: 2026-04-03 18:00:00 +0500
 categories: [University Life, DBMS]
 tags: [HostelLife, Restart, Github, Engineering]
 image:
-  path: /assets/thumbnail/g1.jpg
+  path: /assets/thumbnail/thumbnail2.jpg
   alt: "Second Semester Reflection"
 ---
 
