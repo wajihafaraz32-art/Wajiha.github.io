@@ -2,7 +2,7 @@
 title: "Unexpected Shifts and Digital Discoveries: My Second Semester Reflection"
 date: 2026-04-03 18:00:00 +0500
 categories: [University Life, DBMS]
-tags: [HostelLife, Jekyll, Chirpy, MySQL, GitHub, Engineering]
+tags: [HostelLife, Restart, Github, Engineering]
 ---
 
 ## 🏠 Unexpected Start: Life in the Hostel
