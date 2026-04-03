@@ -3,6 +3,9 @@ title: "Unexpected Shifts and Digital Discoveries: My Second Semester Reflection
 date: 2026-04-03 18:00:00 +0500
 categories: [University Life, DBMS]
 tags: [HostelLife, Restart, Github, Engineering]
+image:
+  path: /assets/thumbnail/g1.jpg
+  alt: "Second Semester Reflection"
 ---
 
 ## 🏠 Unexpected Start: Life in the Hostel
