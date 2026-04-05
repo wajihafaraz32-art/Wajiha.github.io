@@ -1,8 +1,8 @@
- ---
+---
+layout: post
 title: From Programming Fundamentals to DBMS
 date: 2026-04-05 18:00:00 +0500
 categories: [Education, Computer Science]
-tags: [DBMS, Programming, Learning Journey, University Life]
 ---
 
 ## 📚 From Programming Fundamentals to DBMS
