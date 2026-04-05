@@ -3,6 +3,9 @@ layout: post
 title: From Programming Fundamentals to DBMS
 date: 2026-04-05 18:00:00 +0500
 categories: [Education, Computer Science]
+image:
+  path: /assets/thumbnail/2.jpg
+  alt: A description of the image for accessibility
 ---
 
 ## 📚 From Programming Fundamentals to DBMS
