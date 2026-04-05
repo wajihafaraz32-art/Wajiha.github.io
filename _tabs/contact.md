@@ -9,8 +9,8 @@ I'd love to hear from you! Whether you have a question about my work or just wan
 
 ### Connect with Me
 
-* **Email:** [your.email@example.com](mailto:wajihafaraz32@gmail.com)
-* **GitHub:** [github.com/wajihafaraz32-art](https://wajihafaraz32-art.github.io/Wajiha.github.io/)
+* **Email:** [wajihafaraz32@gmail.com](mailto:wajihafaraz32@gmail.com)
+* **GitHub:** [github.com/wajihafaraz32-art](https://github.com/wajihafaraz32-art)
 
 ---
 
